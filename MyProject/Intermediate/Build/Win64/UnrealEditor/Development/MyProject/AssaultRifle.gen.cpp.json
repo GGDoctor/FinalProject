@@ -1,0 +1,17 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\jmfra\\documents\\finalproject\\myproject\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject\\assaultrifle.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jmfra\\documents\\finalproject\\myproject\\intermediate\\build\\win64\\myprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\jmfra\\documents\\finalproject\\myproject\\intermediate\\build\\win64\\unrealeditor\\development\\myproject\\definitions.myproject.h",
+            "c:\\users\\jmfra\\documents\\finalproject\\myproject\\source\\myproject\\assaultrifle.h",
+            "c:\\users\\jmfra\\documents\\finalproject\\myproject\\source\\myproject\\weapon.h",
+            "c:\\users\\jmfra\\documents\\finalproject\\myproject\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject\\weapon.generated.h",
+            "c:\\users\\jmfra\\documents\\finalproject\\myproject\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject\\assaultrifle.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

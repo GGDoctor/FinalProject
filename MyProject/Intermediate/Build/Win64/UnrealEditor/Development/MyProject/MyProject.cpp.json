@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\jmfra\\documents\\finalproject\\myproject\\source\\myproject\\myproject.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jmfra\\documents\\finalproject\\myproject\\intermediate\\build\\win64\\myprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\jmfra\\documents\\finalproject\\myproject\\intermediate\\build\\win64\\unrealeditor\\development\\myproject\\definitions.myproject.h",
+            "c:\\users\\jmfra\\documents\\finalproject\\myproject\\source\\myproject\\myproject.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
